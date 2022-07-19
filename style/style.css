@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #bf9859;
+    overflow-x: none;
+}
+.div1{
+    width: 600px;
+    height: 500px;
+    position: relative;
+    left: 700px;
+    top: 100px;
+    background-color: rgb(230, 228, 228);
+    box-shadow: 0 0 50px 10px #a1804b;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.div2{
+    background-color: rgba(210, 210, 210, 0.758);
+    width: 300px;
+    height: 500px;
+    overflow: scroll;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    overflow-x: hidden;
+}
+.h33{
+    background-color: rgba(210, 210, 210, 0);
+    position: relative;
+    top: 40px;
+    left: 30px;
+    height: 26px;
+    display: flex;
+    width: 40%;
+}
+.bi-plus{
+    background-color: rgba(210, 210, 210, 0);
+    position: relative;
+    left: 243px;
+    top: 12px;
+    display: flex;
+}
+.div3{
+    width: 240px;
+    height: 150px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    background-color: rgb(241, 234, 179);
+    border: 2px solid rgba(93, 93, 93, 0.663);
+    margin: 15px auto 15px auto;
+}
+.div3:hover{
+    border: 2px solid rgba(38, 0, 255, 0.789);
+    cursor: pointer;
+}
+.visa{
+    width: 80px;
+    background-color: rgb(241, 234, 179);
+    position: relative;
+    left: 10px;
+}
+.div3 p{
+    background-color: rgb(241, 234, 179);
+    position: relative;
+    left: 10px;
+    width: 200px;
+    top: 30px;
+}
+.blue{
+    border: 2px solid rgba(38, 0, 255, 0.789);
+
+}
+
+
+
+
+
+
+.loki{
+    background-color: rgb(230, 228, 228);
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.ikol{
+    position: relative;
+    left: 450px;
+    top: 20px;
+    background-color: rgb(230, 228, 228);
+
+}
+.hlor{
+    position: relative;
+    left: 505px;
+    top: -5px;
+    background-color: rgb(230, 228, 228);
+}
+.chiziq{
+    width: 480px;
+    height: 2px;
+    margin: 0 auto;
+    position: relative;
+    background-color: rgba(88, 87, 87, 0.499);
+    top: 50px;
+}
+.ghap{
+    background-color: rgb(230, 228, 228);
+    color: rgba(118, 120, 119, 0.712);
+    position: relative;
+    left: 50px;
+    top: 100px;
+
+}
+.sappas{
+    background-color: rgb(230, 228, 228);
+    position: relative;
+    left: 90px;
+    top: 58px;
+}
+.hogret{
+    background-color: rgb(230, 228, 228);
+    color: darkgray;
+    position: relative;
+    left: 90px;
+    top: 56px;
+}
+.viyet{
+    background-color: rgb(230, 228, 228);
+    color: rgb(72, 72, 243);
+    position: relative;
+    top: 30px;
+    left: 470px;
+}
+.jik{
+
+    background-color: rgb(230, 228, 228);
+    color: rgb(72, 72, 243);
+    position: relative;
+    top: 8px;
+    left: 515px;
+}
+.divdiv{
+    height: 100px;
+    background-color: rgb(230,228,228);
+}
+.color{
+    color: green;
+}
